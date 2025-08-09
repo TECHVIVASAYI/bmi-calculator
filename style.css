@@ -1,0 +1,55 @@
+/* ...existing code... */
+/* ...existing code... */
+body {
+    background-color: rgb(148, 75, 75);
+    background-image: url('https://images.creativemarket.com/0.1.0/ps/5912337/1820/1213/m1/fpnw/wm1/tq3dpzrfpjdhuzk9yqb2zgsq446ssnplh9b8fzsbeo1oemh6ec5kkpp6gamxff7e-.jpg?1550561650&s=5c8e2e797d2405585e6676d70d42229f'); /* Replace with your image file */
+    background-size: cover;                  /* Make image cover the whole area */
+    background-position: center;             /* Center the image */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+/* ...existing code... */
+/* ...existing code... */
+/* ...existing code... */
+/* ...existing code... */
+#container{
+    color: rgb(26, 6, 6);
+    width: 50%;
+    height: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    transform: translateY(-20%);
+}
+/* ...existing code... */
+/* ...existing code... */
+.h1{
+    color: rgb(247, 240, 240);
+    text-align: center;
+}
+#result {
+    color: rgb(251, 249, 249);
+    background-color: rgb(17, 15, 15);
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    
+}
+button {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
